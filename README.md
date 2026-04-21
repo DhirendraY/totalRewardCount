@@ -1,0 +1,2 @@
+# totalRewardCount
+total rewards count
